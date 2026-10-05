@@ -39,7 +39,9 @@ npx serve .        # ou: npx http-server .
 - **Formulário**: hoje abre uma mensagem de texto (SMS) pré-preenchida para (508) 816-5070.
   Para receber por e-mail, crie um endpoint (Formspree, Web3Forms...) e cole em
   `CONFIG.formEndpoint` no topo de `assets/js/main.js`.
-- **Serviços**: o briefing citou "Organization"; o site mostra 6 serviços de design + build
-  (inclui Home Organization). Confirmar com o cliente.
+- **Serviços**: LVP Flooring (installation labor only), Painting, Drywall, Roofing,
+  Kitchen & Bath Remodeling e Full Home Renovation.
+- **Anúncio de flooring**: use o link `https://ravadesignbuild.vercel.app/#flooring`
+  (abre direto na seção LVP; `?lang=es` / `?lang=pt` para os anúncios em outros idiomas).
 - **Atendimento em 3 idiomas**: o site diz "Service in English, Español and Português". Confirmar.
 - **Domínio**: ainda não registrado.

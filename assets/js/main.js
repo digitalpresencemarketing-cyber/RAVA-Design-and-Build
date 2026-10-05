@@ -93,8 +93,10 @@
 
   function intro() {
     if (!pre || reduce) { if (pre) pre.classList.add('is-gone'); revealSite(); return; }
-    let fast = false;
-    try { fast = sessionStorage.getItem('rava-intro') === '1'; sessionStorage.setItem('rava-intro', '1'); } catch (e) { /* ignore */ }
+    // Visitors arriving on a section link (e.g. an ad pointing to /#flooring) get the short intro.
+    const target = location.hash.length > 1 ? $(location.hash) : null;
+    let fast = !!target;
+    try { fast = fast || sessionStorage.getItem('rava-intro') === '1'; sessionStorage.setItem('rava-intro', '1'); } catch (e) { /* ignore */ }
     if (fast) root.classList.add('intro-fast');
     lock(true);
 
@@ -122,7 +124,10 @@
     Promise.all([counted, imgReady]).then(() => {
       pre.classList.add('is-out');
       setTimeout(revealSite, 650);
-      setTimeout(() => { pre.classList.add('is-gone'); lock(false); }, 1700);
+      setTimeout(() => {
+        pre.classList.add('is-gone'); lock(false);
+        if (target) { layout(); scrollToTarget(target); }
+      }, 1700);
     });
   }
 
@@ -146,10 +151,11 @@
     const target = id === '#top' ? 0 : $(id);
     if (target === null) return;
     e.preventDefault();
-    if (a.dataset.city) {
-      const sel = $('select[name="city"]');
-      sel.value = a.dataset.city; sel.classList.add('has-value');
-    }
+    [['city', a.dataset.city], ['project', a.dataset.project]].forEach(([name, val]) => {
+      if (!val) return;
+      const sel = $(`select[name="${name}"]`);
+      sel.value = val; sel.classList.add('has-value');
+    });
     if (root.classList.contains('menu-open')) { setMenu(false); setTimeout(() => scrollToTarget(target), 350); }
     else scrollToTarget(target);
   });

@@ -3,7 +3,7 @@
    (plus the few strings that exist only in JavaScript, under "js."). */
 window.RAVA_I18N = {
   en: {
-    "js.title": "RAVA Design + Build | Luxury Design & Construction in Orlando, FL",
+    "js.title": "RAVA Design + Build | Flooring, Painting, Drywall & Roofing in Orlando, FL",
     "js.view": "View",
     "js.required": "Please fill in the highlighted fields.",
     "js.smsHead": "New consultation request — RAVA website",
@@ -11,7 +11,7 @@ window.RAVA_I18N = {
   },
 
   es: {
-    "js.title": "RAVA Design + Build | Diseño y Construcción de Lujo en Orlando, FL",
+    "js.title": "RAVA Design + Build | Pisos, Pintura, Drywall y Techos en Orlando, FL",
     "js.view": "Ver",
     "js.required": "Por favor completa los campos marcados.",
     "js.smsHead": "Nueva solicitud de consulta — sitio web RAVA",
@@ -22,17 +22,17 @@ window.RAVA_I18N = {
 
     "hero.eyebrow": "Diseño y Construcción de Lujo · Florida Central",
     "hero.title": '<span class="line"><span>Espacios creados</span></span><span class="line"><span><em>más allá</em> de toda</span></span><span class="line"><span>expectativa.</span></span>',
-    "hero.lead": "Desde el primer boceto hasta la revelación final, diseñamos y construimos hogares y remodelaciones refinadas en toda la Florida Central — un equipo, una visión, una ejecución impecable.",
+    "hero.lead": "Pisos, pintura, drywall, techos y remodelaciones completas en toda la Florida Central — entregados en la fecha escrita en tu contrato.",
     "hero.scroll": "Desliza para explorar",
     "cta.consult": "Agenda una consulta privada",
     "cta.start": "Comienza tu proyecto",
 
-    "mq.1": "Casas a Medida", "mq.2": "Remodelaciones", "mq.3": "Cocinas", "mq.4": "Baños Spa", "mq.5": "Iluminación de Autor", "mq.6": "Carpintería Fina", "mq.7": "Organización del Hogar",
+    "mq.1": "Pisos LVP", "mq.2": "Pintura", "mq.3": "Drywall", "mq.4": "Techos", "mq.5": "Cocinas y Baños", "mq.6": "Remodelaciones", "mq.7": "Plazo por Contrato",
 
     "studio.eyebrow": "El Estudio",
     "studio.title": "Diseño y construcción, <em>bajo un mismo techo.</em>",
     "studio.p1": "RAVA Design + Build une un diseño cuidadoso y una construcción meticulosa en un solo proceso fluido. Sin intermediarios ni detalles perdidos — solo un equipo responsable que guía tu proyecto desde la idea hasta la entrega de llaves.",
-    "studio.p2": "Nos obsesiona lo que hace extraordinario un hogar: cómo la luz recorre el mármol, cómo una lámpara de cristal ancla un espacio de doble altura, cómo el almacenamiento desaparece dentro de la carpintería.",
+    "studio.p2": "Nos obsesionan los detalles que hacen que un hogar se sienta terminado: transiciones de piso perfectas, líneas de pintura nítidas, paredes impecables y un techo del que nunca tengas que preocuparte.",
     "studio.f1.t": "De la idea a la entrega", "studio.f1.d": "Diseño, planificación, obra y acabados — gestionados por un solo equipo.",
     "studio.f2.t": "Materiales seleccionados", "studio.f2.d": "Piedra, iluminación y acabados elegidos por su belleza y durabilidad.",
     "studio.f3.t": "Hablamos tu idioma", "studio.f3.d": "Atención en English, Español y Português.",
@@ -40,13 +40,13 @@ window.RAVA_I18N = {
 
     "svc.eyebrow": "Servicios",
     "svc.title": "Cada detalle, <em>diseñado y entregado.</em>",
-    "svc.intro": "Ya sea que construyas desde cero o reimagines un solo espacio, aplicamos el mismo estándar de diseño, precisión y cuidado en cada proyecto.",
-    "svc.1.t": "Casas a Medida", "svc.1.d": "Residencias desde cero diseñadas según tu estilo de vida — planificadas, gestionadas y construidas de principio a fin.",
-    "svc.2.t": "Remodelación Integral", "svc.2.d": "Transformaciones que respetan la esencia de tu hogar y elevan todo lo demás.",
-    "svc.3.t": "Cocinas", "svc.3.d": "Distribuciones de chef, islas escultóricas y gabinetes a medida creados para funcionar con belleza.",
-    "svc.4.t": "Baños y Suites Spa", "svc.4.d": "Mármol, luz y calma — suites principales diseñadas como refugios privados.",
-    "svc.5.t": "Iluminación de Autor", "svc.5.d": "Desde lámparas de cristal en cascada hasta iluminación empotrada en capas, instaladas con precisión.",
-    "svc.6.t": "Organización del Hogar", "svc.6.d": "Clósets, despensas y muebles empotrados a medida que hacen el orden fácil — y hermoso.",
+    "svc.intro": "De pisos LVP a pintura, drywall y techos, cada servicio se entrega con la misma precisión — y con un plazo escrito en tu contrato.",
+    "svc.1.t": "Instalación de Pisos LVP", "svc.1.d": "Piso vinílico de lujo instalado con cortes precisos, transiciones limpias y un acabado impecable. Solo mano de obra de instalación.",
+    "svc.2.t": "Pintura", "svc.2.d": "Pintura interior y exterior con preparación meticulosa, líneas nítidas y acabados de primera.",
+    "svc.3.t": "Drywall", "svc.3.d": "Instalación, reparación y acabado liso — el lienzo perfecto para cada espacio.",
+    "svc.4.t": "Techos", "svc.4.d": "Trabajos de techo que protegen tu hogar y lo mantienen impecable, pensados para el clima de Florida.",
+    "svc.5.t": "Remodelación de Cocinas y Baños", "svc.5.d": "Cocinas y baños rediseñados desde la distribución hasta los acabados, con cada detalle bien hecho.",
+    "svc.6.t": "Renovación Integral", "svc.6.d": "Transformaciones completas gestionadas por un solo equipo, del primer boceto a la revisión final.",
     "svc.cta": "Hablemos de tu proyecto",
 
     "work.eyebrow": "Proyectos Seleccionados",
@@ -63,9 +63,9 @@ window.RAVA_I18N = {
 
     "promise.eyebrow": "La Promesa RAVA",
     "promise.title": "No está terminado <em>hasta que es impecable.</em>",
-    "promise.p": "Respaldamos cada espacio que entregamos. Recibes un alcance claro antes de comenzar, un responsable dedicado que te mantiene informado y una obra tratada con el mismo respeto que un hogar terminado. Nada se da por cerrado hasta que estés completamente satisfecho — y si algo no está bien, lo corregimos.",
+    "promise.p": "Respaldamos cada espacio que entregamos. Antes de comenzar, recibes un alcance claro y una fecha de entrega escrita en tu contrato. Un responsable dedicado te mantiene informado y tu hogar se trata con respeto todos los días. Nada se da por cerrado hasta que estés completamente satisfecho — y si algo no está bien, lo corregimos.",
     "promise.seal": "Nuestro compromiso con cada cliente, en cada proyecto.",
-    "promise.1.t": "Transparencia total", "promise.1.d": "Alcance y cronograma detallados antes de empezar — sin sorpresas.",
+    "promise.1.t": "Plazo por contrato", "promise.1.d": "La fecha de entrega queda escrita en el contrato — sin plazos indefinidos.",
     "promise.2.t": "Un responsable dedicado", "promise.2.d": "Un solo punto de contacto desde el primer boceto hasta la revisión final.",
     "promise.3.t": "Artesanía sin concesiones", "promise.3.d": "Mano de obra precisa, inspeccionada en cada etapa.",
     "promise.4.t": "Respeto por tu hogar", "promise.4.d": "Obras limpias, protegidas y organizadas, todos los días.",
@@ -74,8 +74,8 @@ window.RAVA_I18N = {
     "process.title": "De la primera conversación <em>a la revelación final.</em>",
     "process.intro": "Un proceso refinado y transparente, pensado para que construir o remodelar se sienta sin esfuerzo.",
     "process.1.t": "Consulta", "process.1.d": "Nos reunimos, escuchamos y recorremos el espacio para entender tu visión, prioridades y presupuesto.",
-    "process.2.t": "Diseño y Planificación", "process.2.d": "Conceptos, materiales y un alcance detallado — para que sepas exactamente qué se construirá y cuándo.",
-    "process.3.t": "Construcción", "process.3.d": "Nuestro equipo ejecuta con precisión y te mantiene al tanto en cada etapa.",
+    "process.2.t": "Planificación y Contrato", "process.2.d": "Un alcance detallado y un plazo escrito en tu contrato — para que sepas exactamente qué se hará y cuándo.",
+    "process.3.t": "Construcción", "process.3.d": "Nuestro equipo ejecuta con precisión y dentro del plazo, manteniéndote al tanto en cada etapa.",
     "process.4.t": "La Revelación", "process.4.d": "Una revisión final meticulosa. Entregamos las llaves solo cuando cada detalle está perfecto.",
 
     "areas.eyebrow": "Áreas de Servicio",
@@ -95,11 +95,27 @@ window.RAVA_I18N = {
     "form.submit": "Solicitar consulta", "form.privacy": "Tu información es privada y nunca se comparte.",
     "form.ok.t": "Gracias.", "form.ok.d": "Tu solicitud está lista. Si tu app de mensajes no se abrió automáticamente, llámanos o escríbenos — queremos conocer tu proyecto.",
 
-    "footer.nav": "Navegación", "footer.lang": "Idioma", "footer.rights": "Todos los derechos reservados.", "footer.top": "Volver arriba"
+    "footer.nav": "Navegación", "footer.lang": "Idioma", "footer.rights": "Todos los derechos reservados.", "footer.top": "Volver arriba",
+
+    "nav.flooring": "Pisos",
+    "hero.deadline.t": "Plazo por contrato",
+    "hero.deadline.d": "La fecha de entrega queda escrita en el contrato — y la cumplimos.",
+    "hero.lvp": "Instalación de pisos LVP — solo mano de obra",
+    "flr.eyebrow": "Pisos LVP",
+    "flr.stamp": "Solo mano de obra",
+    "flr.title": "Piso vinílico de lujo, <em>instalado a la perfección.</em>",
+    "flr.tag": "Solo mano de obra de instalación",
+    "flr.p": "Tú eliges y compras tu piso LVP — nuestro equipo realiza la instalación profesional, con precisión, cuidado y un plazo escrito en tu contrato.",
+    "flr.l1": "Instalación de piso vinílico de lujo (LVP)",
+    "flr.l2": "Solo mano de obra — el material lo proporcionas tú",
+    "flr.l3": "Cortes precisos, uniones firmes y transiciones limpias",
+    "flr.l4": "Fecha de entrega escrita en tu contrato",
+    "flr.cta": "Pide tu presupuesto de pisos",
+    "svc.flrcta": "Ver detalles de pisos"
   },
 
   pt: {
-    "js.title": "RAVA Design + Build | Design e Construção de Luxo em Orlando, FL",
+    "js.title": "RAVA Design + Build | Pisos, Pintura, Drywall e Telhados em Orlando, FL",
     "js.view": "Ver",
     "js.required": "Por favor, preencha os campos destacados.",
     "js.smsHead": "Nova solicitação de consulta — site RAVA",
@@ -110,17 +126,17 @@ window.RAVA_I18N = {
 
     "hero.eyebrow": "Design e Construção de Luxo · Flórida Central",
     "hero.title": '<span class="line"><span>Espaços criados</span></span><span class="line"><span><em>além</em> de qualquer</span></span><span class="line"><span>expectativa.</span></span>',
-    "hero.lead": "Do primeiro esboço à revelação final, projetamos e construímos casas e reformas refinadas em toda a Flórida Central — uma equipe, uma visão, uma execução impecável.",
+    "hero.lead": "Pisos, pintura, drywall, telhados e reformas completas em toda a Flórida Central — entregues na data escrita no seu contrato.",
     "hero.scroll": "Role para explorar",
     "cta.consult": "Agende uma consulta privada",
     "cta.start": "Comece seu projeto",
 
-    "mq.1": "Casas Sob Medida", "mq.2": "Reformas", "mq.3": "Cozinhas", "mq.4": "Banheiros Spa", "mq.5": "Iluminação Assinada", "mq.6": "Marcenaria Fina", "mq.7": "Organização da Casa",
+    "mq.1": "Piso LVP", "mq.2": "Pintura", "mq.3": "Drywall", "mq.4": "Telhados", "mq.5": "Cozinhas e Banheiros", "mq.6": "Reformas", "mq.7": "Prazo em Contrato",
 
     "studio.eyebrow": "O Estúdio",
     "studio.title": "Design e construção, <em>sob o mesmo teto.</em>",
     "studio.p1": "A RAVA Design + Build une design cuidadoso e construção meticulosa em um único processo, sem atritos. Sem intermediários, sem detalhes perdidos — apenas uma equipe responsável conduzindo seu projeto da ideia à entrega das chaves.",
-    "studio.p2": "Somos obcecados pelo que torna uma casa extraordinária: como a luz desliza sobre o mármore, como um lustre de cristal ancora um pé-direito duplo, como o armazenamento desaparece na marcenaria.",
+    "studio.p2": "Somos obcecados pelos detalhes que fazem uma casa parecer pronta de verdade: transições de piso perfeitas, linhas de pintura precisas, paredes lisas e um telhado com o qual você não precisa se preocupar.",
     "studio.f1.t": "Da ideia à entrega", "studio.f1.d": "Design, planejamento, obra e acabamento — conduzidos por uma única equipe.",
     "studio.f2.t": "Materiais selecionados", "studio.f2.d": "Pedras, iluminação e acabamentos escolhidos pela beleza e durabilidade.",
     "studio.f3.t": "Falamos a sua língua", "studio.f3.d": "Atendimento em English, Español e Português.",
@@ -128,13 +144,13 @@ window.RAVA_I18N = {
 
     "svc.eyebrow": "Serviços",
     "svc.title": "Cada detalhe, <em>projetado e entregue.</em>",
-    "svc.intro": "Seja construindo do zero ou reinventando um único ambiente, aplicamos o mesmo padrão de design, precisão e cuidado em cada projeto.",
-    "svc.1.t": "Casas Sob Medida", "svc.1.d": "Residências do zero, desenhadas para o seu estilo de vida — planejadas, gerenciadas e construídas de ponta a ponta.",
-    "svc.2.t": "Reforma Completa", "svc.2.d": "Transformações que respeitam a essência da sua casa e elevam todo o resto.",
-    "svc.3.t": "Cozinhas", "svc.3.d": "Layouts de chef, ilhas esculturais e armários sob medida feitos para funcionar com beleza.",
-    "svc.4.t": "Banheiros e Suítes Spa", "svc.4.d": "Mármore, luz e calma — suítes principais pensadas como refúgios privados.",
-    "svc.5.t": "Iluminação Assinada", "svc.5.d": "De lustres de cristal em cascata a iluminação embutida em camadas, instalados com precisão.",
-    "svc.6.t": "Organização da Casa", "svc.6.d": "Closets, despensas e marcenaria sob medida que tornam a organização fácil — e bonita.",
+    "svc.intro": "Do piso LVP à pintura, drywall e telhados, cada serviço é entregue com a mesma precisão — e com prazo escrito no contrato.",
+    "svc.1.t": "Instalação de Piso LVP", "svc.1.d": "Piso vinílico de luxo instalado com cortes precisos, transições limpas e acabamento impecável. Somente mão de obra de instalação.",
+    "svc.2.t": "Pintura", "svc.2.d": "Pintura interna e externa com preparação minuciosa, linhas precisas e acabamento de primeira.",
+    "svc.3.t": "Drywall", "svc.3.d": "Instalação, reparo e acabamento liso — a base perfeita para cada ambiente.",
+    "svc.4.t": "Telhados", "svc.4.d": "Serviços de telhado que protegem sua casa e mantêm o visual impecável, pensados para o clima da Flórida.",
+    "svc.5.t": "Reforma de Cozinhas e Banheiros", "svc.5.d": "Cozinhas e banheiros redesenhados do layout ao acabamento, com cada detalhe bem feito.",
+    "svc.6.t": "Reforma Completa", "svc.6.d": "Transformações completas conduzidas por uma única equipe, do primeiro esboço à vistoria final.",
     "svc.cta": "Fale sobre seu projeto",
 
     "work.eyebrow": "Projetos Selecionados",
@@ -151,9 +167,9 @@ window.RAVA_I18N = {
 
     "promise.eyebrow": "A Promessa RAVA",
     "promise.title": "Não está pronto <em>até estar impecável.</em>",
-    "promise.p": "Assumimos a responsabilidade por cada espaço que entregamos. Você recebe um escopo claro antes do início, um responsável dedicado que mantém você informado e uma obra tratada com o mesmo respeito de uma casa pronta. Nada é encerrado até você estar completamente satisfeito — e se algo não estiver certo, nós corrigimos.",
+    "promise.p": "Assumimos a responsabilidade por cada espaço que entregamos. Antes do início, você recebe um escopo claro e a data de entrega escrita no contrato. Um responsável dedicado mantém você informado, e sua casa é tratada com respeito todos os dias. Nada é encerrado até você estar completamente satisfeito — e se algo não estiver certo, nós corrigimos.",
     "promise.seal": "Nosso compromisso com cada cliente, em cada projeto.",
-    "promise.1.t": "Transparência total", "promise.1.d": "Escopo e cronograma detalhados antes de começar — sem surpresas.",
+    "promise.1.t": "Prazo em contrato", "promise.1.d": "A data de entrega fica escrita no contrato — sem prazos em aberto.",
     "promise.2.t": "Um responsável dedicado", "promise.2.d": "Um único ponto de contato do primeiro esboço à vistoria final.",
     "promise.3.t": "Acabamento sem concessões", "promise.3.d": "Mão de obra precisa, inspecionada em cada etapa.",
     "promise.4.t": "Respeito pela sua casa", "promise.4.d": "Obras limpas, protegidas e organizadas, todos os dias.",
@@ -162,8 +178,8 @@ window.RAVA_I18N = {
     "process.title": "Da primeira conversa <em>à revelação final.</em>",
     "process.intro": "Um processo refinado e transparente, pensado para que construir ou reformar seja leve.",
     "process.1.t": "Consulta", "process.1.d": "Nos encontramos, ouvimos e percorremos o espaço para entender sua visão, prioridades e orçamento.",
-    "process.2.t": "Design e Planejamento", "process.2.d": "Conceitos, materiais e um escopo detalhado — para você saber exatamente o que será construído, e quando.",
-    "process.3.t": "Obra", "process.3.d": "Nossa equipe executa com precisão e mantém você atualizado a cada etapa.",
+    "process.2.t": "Planejamento e Contrato", "process.2.d": "Um escopo detalhado e prazo escrito no contrato — para você saber exatamente o que será feito, e quando.",
+    "process.3.t": "Obra", "process.3.d": "Nossa equipe executa com precisão e dentro do prazo, mantendo você atualizado a cada etapa.",
     "process.4.t": "A Revelação", "process.4.d": "Uma vistoria final minuciosa. Entregamos as chaves somente quando cada detalhe está perfeito.",
 
     "areas.eyebrow": "Regiões Atendidas",
@@ -183,6 +199,22 @@ window.RAVA_I18N = {
     "form.submit": "Solicitar consulta", "form.privacy": "Suas informações são privadas e nunca compartilhadas.",
     "form.ok.t": "Obrigado.", "form.ok.d": "Sua solicitação está pronta. Se o app de mensagens não abriu automaticamente, ligue ou mande uma mensagem — queremos conhecer o seu projeto.",
 
-    "footer.nav": "Navegação", "footer.lang": "Idioma", "footer.rights": "Todos os direitos reservados.", "footer.top": "Voltar ao topo"
+    "footer.nav": "Navegação", "footer.lang": "Idioma", "footer.rights": "Todos os direitos reservados.", "footer.top": "Voltar ao topo",
+
+    "nav.flooring": "Pisos",
+    "hero.deadline.t": "Prazo em contrato",
+    "hero.deadline.d": "A data de entrega fica escrita no contrato — e nós cumprimos.",
+    "hero.lvp": "Instalação de piso LVP — somente mão de obra",
+    "flr.eyebrow": "Piso LVP",
+    "flr.stamp": "Só mão de obra",
+    "flr.title": "Piso vinílico de luxo, <em>instalado com perfeição.</em>",
+    "flr.tag": "Somente mão de obra de instalação",
+    "flr.p": "Você escolhe e compra o seu piso LVP — nossa equipe faz a instalação profissional, com precisão, cuidado e prazo escrito no contrato.",
+    "flr.l1": "Instalação de piso vinílico de luxo (LVP)",
+    "flr.l2": "Somente mão de obra — o material é fornecido por você",
+    "flr.l3": "Cortes precisos, encaixes firmes e transições limpas",
+    "flr.l4": "Data de entrega escrita no contrato",
+    "flr.cta": "Peça seu orçamento de piso",
+    "svc.flrcta": "Ver detalhes do piso"
   }
 };
