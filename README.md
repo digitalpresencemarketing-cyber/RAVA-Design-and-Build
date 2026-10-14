@@ -41,7 +41,7 @@ npx serve .        # ou: npx http-server .
   `CONFIG.formEndpoint` no topo de `assets/js/main.js`.
 - **Serviços**: LVP Flooring (installation labor only), Painting, Drywall, Roofing,
   Kitchen & Bath Remodeling e Full Home Renovation.
-- **Anúncio de flooring**: use o link `https://ravadesignbuild.vercel.app/#flooring`
+- **Anúncio de flooring**: use o link `https://ravadesignbuild.com/#flooring`
   (abre direto na seção LVP; `?lang=es` / `?lang=pt` para os anúncios em outros idiomas).
 - **Atendimento em 3 idiomas**: o site diz "Service in English, Español and Português". Confirmar.
-- **Domínio**: ainda não registrado.
+- **Domínio**: https://ravadesignbuild.com (Vercel; www redireciona para o domínio principal).
