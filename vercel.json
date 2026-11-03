@@ -1,6 +1,10 @@
 {
   "rewrites": [
     {
+      "source": "/free-3d-design/",
+      "destination": "https://rava-design-studio.vercel.app/free-3d-design/"
+    },
+    {
       "source": "/free-3d-design",
       "destination": "https://rava-design-studio.vercel.app/free-3d-design"
     },
